@@ -1,0 +1,22 @@
+{
+  "name": "next-js-web3-app",
+  "version": "1.0.0",
+  "description": "Une application Web3 simple avec Next.js et TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "next": "^12.1.0",
+    "wagmi-react-metamask": "^1.0.0",
+    "wagmi-contracts": "^1.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
+
